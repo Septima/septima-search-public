@@ -1,15 +1,18 @@
 # septima-search-public
-Issue tracker for users of Septma Search library
+Issue tracker for users of Septima Search library
 
-Library which may be used
+Latest version is 5.65.1
+
+The library may be used
 * in browser
   * through cdn
-   ```html <script type="text/javascript" src="https://search.cdn.septima.dk/latest/septimasearch.min.js"/>``` or
+   ```html <script type="text/javascript" src="https://search.cdn.septima.dk/5.65.1/septimasearch.min.js"/>``` or
   * via npm
     * log on to packages.septima
     ```npm login --registry=https://packages.septima.dk/repository/npm-hosted/ --scope=@septima```
     * ```npm install @septima/septima-search --save```
 * in node.js
+    * via npm as descibed above
 
 ### Examples of usage
 
